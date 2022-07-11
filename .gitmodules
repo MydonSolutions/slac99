@@ -1,0 +1,3 @@
+[submodule "subprojects/pyslalib"]
+	path = subprojects/pyslalib
+	url = https://github.com/MydonSolutions/pyslalib

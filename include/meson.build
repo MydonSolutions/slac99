@@ -1,0 +1,1 @@
+install_subdir('slaclib', install_dir : get_option('includedir'))
